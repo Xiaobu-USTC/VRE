@@ -1,6 +1,6 @@
 # Reflect to Inform: Boosting Multimodal Reasoning via Information-Gain-Driven Verification
 
-[![Paper](https://img.shields.io/badge/arXiv-PAPER-blue)](https://github.com/your-username/VRE)
+[![Paper](https://img.shields.io/badge/arXiv-PAPER-blue)](https://arxiv.org/abs/2603.26348)
 [![Data](https://img.shields.io/badge/DATASET-HUGGINGFACE-green.svg)](https://huggingface.co/datasets)
 [![Model](https://img.shields.io/badge/VRE-HUGGINGFACE-orange)](https://huggingface.co/models)
 
